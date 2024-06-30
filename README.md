@@ -26,9 +26,9 @@ playwright-demoplaze-automation/
 
 ## Setup
 
-1. **Clone the repository:**
+1. Clone the repository
 
-2. **Install dependencies:**
+2. Install Maven dependencies
 
 ## Running Tests
 - Run each test file
